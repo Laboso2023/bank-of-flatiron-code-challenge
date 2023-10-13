@@ -87,6 +87,5 @@ function hasTargetSum(array, target) {
   
     console.log("Expecting: true");
     console.log("=>", hasTargetSum([-1, 2, 7, 4], 6));
-  }
-  
-  module.exports = hasTargetSum;
+
+  module.exports = hasTargetSum 
